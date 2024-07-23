@@ -1,0 +1,17 @@
+/* Cards.css */
+
+.card-black {
+  background-color: #333; 
+  color: #fff; 
+}
+
+.card-body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center; 
+  height: 200px; 
+}
+
+.card-title {
+  margin: 0; 
+}
